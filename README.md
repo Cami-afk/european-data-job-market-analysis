@@ -102,3 +102,20 @@ Screenshots available in `/dashboard/screenshots/`
 - Automate pipeline
 - Develop skill recommendation model
 
+---
+
+## Dashboard Preview
+
+### Market Volatility
+![Market Volatility](dashboard/screenshots/01_market_volatility.jpg)
+
+### Role Distribution
+![Role Distribution](dashboard/screenshots/02_role_distribution.jpg)
+
+### Geographic Hotspots
+![Europe Map](dashboard/screenshots/03_europe_map.jpg)
+
+### Skills Demand
+![Skills](dashboard/screenshots/04_skills.jpg)
+
+
