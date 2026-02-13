@@ -1,13 +1,8 @@
-# european-data-job-market-analysis
- analysis of 550k+ European data job postings (2023-2025) using Python, SQL, BigQuery and Looker Studio.
-
-
-
 # European Data Job Market Analysis (2023-Q2 2025)
 
 ## Project Overview
 
-This project analyzes end-to-end **550k+ European data job postings across 37 countries (2023-mid 2025)**.
+This project analyzes end-to-end **550k+ European data job postings across 37 countries (2023-mid 2025) using Python, SQL, BigQuery and Looker Studio.**.
 
 Developed as part of a Data Analytics bootcamp, we acted as **Data Advisor Consultants**, delivering insights for a fictional European career coaching agency.
 
